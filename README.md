@@ -30,9 +30,9 @@
 
     [[Our best model]](https://cloud.tsinghua.edu.cn/smart-link/ea661822-d290-4a43-adaa-2a55ce0badae/)
 
-    step 2: 运行demo/test.py文件，生成预测的框
+    step 2: 运行demo/test.py文件，在detections目录下生成预测结果；或者可以直接解压该目录下detections压缩包得到我们预测的结果。
 
-    step 3: MAP计算: 运行pascalvoc.py文件。
+    step 3: MAP计算: 在demo目录下解压groundtruths压缩包至当前目录，然后运行pascalvoc.py文件，在results文件夹内生成结果。
 
 
 5. 结果：
