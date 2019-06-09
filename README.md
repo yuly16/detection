@@ -1,7 +1,7 @@
 # 基于Pytorch的弱监督边框检测
 
-## requirements
-* Python3.6
+## Requirements
+* Python3.6.7
 * pytorch0.4.0-gpu(注：不支持pytorch1.1.0)
 
 ## Usage
